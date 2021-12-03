@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Interfaz</string>
+    <string name="boton_enviar">Enviar</string>
+    <string name="titulo"> Enviar mensaje</string>
+    <string name="asunto">Asunto:</string>
+    <string name="mensaje_A">Asunto</string>
+
+</resources>
